@@ -1,0 +1,318 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "83fa9ed7-c8dd-46a0-9e4c-22f26cee001e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 29.21 74.93)
+		(size 34.29 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "106ddb9b-eaf7-4986-a036-910c47807a49")
+		(property "Sheetname" "MCU"
+			(at 29.21 74.2184 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 29.21 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 118.11)
+		(size 34.29 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1a8dbf96-740c-4bfe-aecd-b47300dcf1cf")
+		(property "Sheetname" "MECHANICAL"
+			(at 29.21 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MECHANICAL.kicad_sch"
+			(at 29.21 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 74.93)
+		(size 33.02 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2eee8e37-473f-4705-b726-89856a06539d")
+		(property "Sheetname" "MOSFET DRIVER"
+			(at 72.39 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOSFET DRIVER.kicad_sch"
+			(at 72.39 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 74.93)
+		(size 31.75 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "40524b8c-0040-4847-b625-ba61a83da1ef")
+		(property "Sheetname" "MOSFETS"
+			(at 114.3 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOSFETS.kicad_sch"
+			(at 114.3 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 38.1)
+		(size 34.29 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6f7d7aa0-9fb2-43be-bade-ebf81334f418")
+		(property "Sheetname" "OVERVIEW"
+			(at 29.21 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OVERVIEW.kicad_sch"
+			(at 29.21 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 154.94 74.93)
+		(size 34.29 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7681f920-e07c-41e3-8b95-43484b4e7f6f")
+		(property "Sheetname" "CAN"
+			(at 154.94 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 154.94 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 199.39 74.93)
+		(size 33.02 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7ed2b86-090f-4dd0-9297-ebb68490160f")
+		(property "Sheetname" "FILTERS"
+			(at 199.39 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FILTERS.kicad_sch"
+			(at 199.39 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 38.1)
+		(size 33.02 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6bb69b7-9736-4f0e-9729-af42a5866654")
+		(property "Sheetname" "BLOCK DIAGRAM"
+			(at 72.39 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BLOCK DIAGRAM.kicad_sch"
+			(at 72.39 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RaspberryPi-HAT"
+				(path "/83fa9ed7-c8dd-46a0-9e4c-22f26cee001e"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
